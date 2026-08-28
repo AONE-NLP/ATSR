@@ -1,6 +1,7 @@
 # ATSR
 
-This project provides the implementation of ATSR.
+Code and implementation details of our paper ATSR: Adaptive Template Selection and Role-Aware Routing for Document-Level Multi-Event Argument Extraction，accepted by Findings of EMNLP 2026.
+
 [![Paper](./model.png)](./model.pdf)
 
 ## Environment Setup
